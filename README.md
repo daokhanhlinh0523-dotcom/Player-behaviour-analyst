@@ -6,7 +6,7 @@ Phân tích độ khó, khả năng đi tiếp và tỷ lệ quay lại trong ga
 
 1. [Báo cáo PDF](output/pdf/Puzzle_Level_Analysis_Report.pdf): kết quả và hướng điều tra.
 2. [Notebook phân tích](puzzle_analysis.ipynb): công thức, bảng đối chiếu và biểu đồ.
-3. [Tài liệu SQL](sql/README.md): danh mục truy vấn và quy ước tính toán.
+3. [Truy vấn SQL](sql/): kiểm tra và tổng hợp dữ liệu.
 4. [Biểu đồ báo cáo](build_report_charts.py): script tạo các hình trong báo cáo.
 
 ## Tóm tắt phân tích
