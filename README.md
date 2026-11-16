@@ -1,13 +1,13 @@
 # Đánh giá thử thách qua từng màn
 
-Phân tích độ khó, khả năng đi tiếp và tỷ lệ quay lại trong game puzzle. Repository chứa truy vấn MySQL 8.0+ và các script Python của dự án.
+Phân tích độ khó, khả năng đi tiếp và tỷ lệ quay lại trong game puzzle bằng Python và MySQL 8.0+.
 
-## Đọc mã nguồn
+## Đọc bài
 
-1. [Tài liệu SQL](sql/README.md): danh mục truy vấn và quy ước tính toán.
-2. [Biểu đồ báo cáo](build_report_charts.py): tạo biểu đồ mức tiếp cận, độ khó, hành trình và so sánh nhóm dùng vật phẩm.
-3. [Tiện ích dữ liệu](analysis_utils.py): đọc bảng CSV trong môi trường phân tích.
-4. [Script thực thi](run_analysis.py): chạy notebook trong môi trường phân tích.
+1. [Báo cáo PDF](output/pdf/Puzzle_Level_Analysis_Report.pdf): kết quả và hướng điều tra.
+2. [Notebook phân tích](puzzle_analysis.ipynb): công thức, bảng đối chiếu và biểu đồ.
+3. [Tài liệu SQL](sql/README.md): danh mục truy vấn và quy ước tính toán.
+4. [Biểu đồ báo cáo](build_report_charts.py): script tạo các hình trong báo cáo.
 
 ## Tóm tắt phân tích
 

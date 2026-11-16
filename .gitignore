@@ -9,8 +9,10 @@ tmp/
 *.out
 *.synctex.gz
 
-# Private data and artifacts containing analysis results.
+# Private inputs and intermediate outputs.
 data/
-output/
-puzzle_analysis.ipynb
+output/*
+!output/pdf/
+output/pdf/*
+!output/pdf/Puzzle_Level_Analysis_Report.pdf
 *.zip
