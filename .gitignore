@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.ipynb_checkpoints/
+tmp/
+*.aux
+*.log
+*.out
+*.synctex.gz
+
+# Private data and artifacts containing analysis results.
+data/
+output/
+puzzle_analysis.ipynb
+*.zip
